@@ -1,4 +1,8 @@
 hello
 hai
 how are you?
+<<<<<<< HEAD
 what are you doing?
+=======
+ello
+>>>>>>> ee23d040a5cfa931f502deac4b1f1d8e5acd542a
